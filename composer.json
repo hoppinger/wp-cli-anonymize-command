@@ -1,0 +1,26 @@
+{
+    "name": "hoppinger/wp-cli-anonymize-command",
+    "description": "Data anonymize Command for WP-CLI",
+    "homepage": "https://github.com/timhysniu/wp-dbdelta",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3"
+    },
+    "authors": [
+	    {
+	        "name": "Wouter van der Meulen",
+	        "email": "w.s.van.der.meulen@gmail.com"
+	    },
+	    {
+	        "name": "Robert Vermeulen",
+	        "email": "robert388@hotmail.com"
+	    }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [ "command.php" ]
+    },
+    "require": {},
+    "require-dev": {
+    }
+}
