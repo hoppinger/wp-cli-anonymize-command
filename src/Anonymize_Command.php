@@ -1,11 +1,11 @@
 <?php
 
-namespace WP_CLI_Anonymize;
+// namespace WP_CLI_Anonymize;
 
-use WP_CLI;
+// use WP_CLI;
 
-class Anonymize_Command
-{
+class Anonymize_Command extends WP_CLI_Command {
+
     public function __construct()
     {
 

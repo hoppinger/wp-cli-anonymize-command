@@ -19,6 +19,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "files": [ "command.php" ]
+
     },
     "require": {},
     "require-dev": {
